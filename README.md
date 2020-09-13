@@ -6,7 +6,7 @@
 
 ## :gear: Set up your own
 
-'''bash
+```bash
 Copy `src/javascripts/config.js.sample` to `src/javascripts/config.js` and setup the variables.
 
 Run `npm install`.
@@ -14,18 +14,18 @@ Run `npm install`.
 Run `npm start` and open `http://localhost:3000/webpack-dev-server/index.html`.
 
 If you can't stand the banner, open `http://localhost:3000/` instead.
-'''
+```
 
 ## Deploying
 
-''' bash
+```bash
 Run `npm run build`, then upload the contents in `build/prod` folder.
 
 Happy coding!
-'''
+```
 
 ## More readings
 
-'''bash
+```bash
 See [Wiki](https://github.com/reactiveai/cloud-vision-explorer/wiki/How-to-build-your-own-galaxy)
-'''
+```
