@@ -76,4 +76,3 @@ function onOpen() {
                         ];
   ss.addMenu('Cloud Vision Explorer',  objMenuEntries);
 }
-                    
